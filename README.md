@@ -24,7 +24,7 @@ Getting people to understand how powerful building a sales funnel in minutes can
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 <DIV class=book-info-will-learn-text>
-ClickFunnels Users, Entrepreneurs, Online Marketers. Anyone who wants to use ClickFunnels for FREE or even get PAID to use it.
+<li>ClickFunnels Users, Entrepreneurs, Online Marketers. Anyone who wants to use ClickFunnels for FREE or even get PAID to use it.</li>
 <DIV>
 
 ### Technical Requirements
